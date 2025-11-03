@@ -1,0 +1,9 @@
+python
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+pickle
+seaborn==0.12.2
