@@ -13,6 +13,7 @@ This project helps visualize customer groups and understand different spending p
 - Powered by pre-trained **KMeans model** and **StandardScaler**
 
 
+
 🧾 Dataset Format
 
 Your CSV file should contain the following columns;
@@ -23,6 +24,8 @@ Format (similar to "mall customer segmentatio data"):
 `Age` - Customer age (optional) 
 `Annual Income (k$)` - Annual income in thousands
 `Spending Score (1-100)` - Customer spending score 
+
+
 
 > Only **Annual Income** and **Spending Score** are used for Plotting.
 
