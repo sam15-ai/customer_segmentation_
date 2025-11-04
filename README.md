@@ -40,4 +40,4 @@ Format (similar to "mall customer segmentatio data"):
 
 
 
-##Visit the APP here : https://customersegmentation-l64bbfxfda5abuaerasznp.streamlit.app/
+# Visit the APP here : https://customersegmentation-l64bbfxfda5abuaerasznp.streamlit.app/
