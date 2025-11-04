@@ -39,3 +39,5 @@ Format (similar to "mall customer segmentatio data"):
 > Only **Annual Income** and **Spending Score** are used for Plotting.
 
 
+
+##Visit the APP here : https://customersegmentation-l64bbfxfda5abuaerasznp.streamlit.app/
